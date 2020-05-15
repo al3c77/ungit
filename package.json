@@ -26,11 +26,11 @@
   },
   "dependencies": {
     "@primer/octicons": "~9.6.0",
-    "blueimp-md5": "~2.14.0",
+    "blueimp-md5": "~2.16.0",
     "body-parser": "~1.19.0",
     "cookie-parser": "~1.4.5",
     "crossroads": "~0.12.2",
-    "diff2html": "~3.1.6",
+    "diff2html": "~3.1.7",
     "dnd-page-scroll": "0.0.4",
     "express": "~4.17.1",
     "express-session": "~1.17.1",
